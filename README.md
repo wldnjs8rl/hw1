@@ -406,16 +406,25 @@ public class Server {
 
 ### **출력 **
 - 서버 실행 후 클라이언트와의 통신이 정상적으로 이루어진 것을 보여주는 서버로그
+  
 ![image](https://github.com/user-attachments/assets/3bcf8f63-44c1-43ec-800d-f14d50af0e3c)
 ![image](https://github.com/user-attachments/assets/2d2ba68a-e23a-430b-aa38-93824a908ac4)
 ![image](https://github.com/user-attachments/assets/29654b73-60c5-4084-8d89-2d0e7b82d112)
+
 - 결과 화면 예시
+
 ![image](https://github.com/user-attachments/assets/69ac1bc9-69fe-4e71-b062-c276c89a1d40)
+
 - 빈칸으로 제출하거나 완전히 이상한 답을 제출한 경우 invalid request 메시지
+  
 ![image](https://github.com/user-attachments/assets/6e5f3026-3570-4506-a238-47f62be83916)
+
 - 예외 처리
+  
 ![image](https://github.com/user-attachments/assets/9d6da2aa-7a82-4d63-ad6e-447ceb6ef275)
+
 - 다른 답안 true, false, o, x 도 가능하도록
+  
 ![image](https://github.com/user-attachments/assets/21361446-9ecb-4616-94e2-ec90e6be52ab)
 
 
