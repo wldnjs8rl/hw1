@@ -51,8 +51,7 @@ Java 소켓 프로그래밍을 통해 데이터를 주고받는 방식을 이해
 ## **구조도**
 
 
-![image](https://github.com/user-attachments/assets/b15e7e3e-9980-4851-8e34-5c86dbe80b03)
-![image](https://github.com/user-attachments/assets/5402272c-9467-41f0-a8bc-3337db322cb9)
+![image](https://github.com/user-attachments/assets/b15e7e3e-9980-4851-8e34-5c86dbe80b03), ![image](https://github.com/user-attachments/assets/5402272c-9467-41f0-a8bc-3337db322cb9)
 
 
 
@@ -186,11 +185,11 @@ public class Client {
         }
     }
 }
-
+```
 ---
 
 
-### **1. ConfigFile 코드**
+### **2. ConfigFile 코드**
 ```java
 
 package client;
@@ -244,10 +243,12 @@ public class ConfigFile {
     }
 }
 
+```
+
 ---
 
 
-### **1. ClientHandler 코드**
+### **3. ClientHandler 코드**
 ```java
 
 package server;
@@ -359,11 +360,12 @@ public class ClientHandler implements Runnable {
    
 }
 
+```
 
 ---
 
 
-### **1. Server 코드**
+### **4. Server 코드**
 ```java
 
 package server;
@@ -399,6 +401,8 @@ public class Server {
     }
 }
 
+```
+---
 
 ### **출력 **
 ![image](https://github.com/user-attachments/assets/3bcf8f63-44c1-43ec-800d-f14d50af0e3c)
